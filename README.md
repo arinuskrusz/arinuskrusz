@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arinuskrusz
-- 👀 I’m interested in: REACJS,PYTHON,BLOCKCHAIN
-- 🌱 I’m currently learning .REACJS,PYTHON,BLOCKCHAIN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @arinuskrusz :)
+- 👀 I’m interested in: REACJS,PYTHON and BLOCKCHAIN dApp DEV
+- 🌱 I’m currently learning .REACJS,PYTHON and BLOCKCHAIN dApp DEV
+- 💞️ I’m looking to collaborate on ... blockchain dapps :)
+- 📫 How to reach me ... Just call me on telegram :) 12988862202
 
 <!---
 arinuskrusz/arinuskrusz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
