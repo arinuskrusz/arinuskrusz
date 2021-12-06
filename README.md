@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arinuskrusz :)
-- 👀 I’m interested in: REACTJS/PYTHON
+- 👀 I’m interested in: REACTJS/PYTHON/ADVPL
 
 
 <!---
